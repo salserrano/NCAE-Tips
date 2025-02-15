@@ -2,7 +2,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKU1BVVs896ySnNEnDxULc37i5AbG5TilaDw&s"/>
 </p>
 
-# NCAE Cyber Games / Red vs Blue Team Competition Tips
+# NCAE Cyber Games: Linux Commands for Red vs. Blue Teams
 
 This guide provides essential commands and strategies for competing in NCAE Cyber Games or any Red vs Blue team competitions. Use these tips to protect your infrastructure, detect anomalies, and respond effectively to threats.
 
